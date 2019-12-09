@@ -10,8 +10,7 @@ Utiliser le makefile pour compiler le projet
 make
 ```
 pour exécuter
-```
-bash
+``` bash
 ./quadTree
 ```
 
