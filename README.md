@@ -6,13 +6,14 @@ Pour l'installer suivre le guide:
 
 ## lancer le puzzle
 Utiliser le makefile pour compiler le projet
-‘’’ bash
+``` bash
 make
-‘’’
+```
 pour exécuter
-'''bash
+```
+bash
 ./quadTree
-'''
+```
 
 ## jouer
 il faut dans un premier temps cliquer sur “charger image ”
